@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OfflineNewsApp</string>
+    <string name="title_activity_article">ArticleActivity</string>
+</resources>
